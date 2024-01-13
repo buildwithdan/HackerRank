@@ -20,3 +20,8 @@ def plusMinus(arr):
     print(f_positive)
     print(f_negative)
     print(f_zero)
+    
+    
+test = [9,6,5,-1,-3,0]
+
+plusMinus(test)
