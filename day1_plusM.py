@@ -15,7 +15,7 @@ def plusMinus(arr):
             positive +=1
     
     f_positive = float(positive / denominator)
-    f_negative = float(negative / denomitator)
+    f_negative = float(negative / denominator)
     f_zero = float(zero / denominator)
     print(f_positive)
     print(f_negative)
